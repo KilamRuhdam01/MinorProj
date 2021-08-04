@@ -1,6 +1,6 @@
 
 from matplotlib.pyplot import flag
-from networks import graph_step_twisted_torus
+#from networks import graph_step_twisted_torus
 from networks import add_edges_diagonally
 from networks import del_edges_diagonally
 #%% Function to arrange the neighbors in clockwise direction
