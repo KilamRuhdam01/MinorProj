@@ -11,10 +11,10 @@ import networks
 import construct
 import importlib
 import algos1
-import algos
+#import algos
 importlib.reload(networks)
 import csv 
-from os import remove
+#from os import remove
 #import sys
 #print(algos.__file__)
 
